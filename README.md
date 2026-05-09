@@ -64,8 +64,6 @@ goodstore/
 │   ├── ProductCard.tsx        # Product tile with "Add to cart"
 │   ├── PriceFilter.tsx        # Min/max price filter
 │   └── Footer.tsx             # Footer with links
-├── context/
-│   └── CartContext.tsx        # Global cart state
 ├── data/
 │   └── products.ts            # Static product catalogue
 ├── public/                    # Static assets & images
