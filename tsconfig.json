@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/components/Header.jsx", "app/page.jsx", "app/pages/Card.jsx", "app/context/ThemeContext.jsx", "app/cartabout/[slug]/page.jsx", "app/cart/page.jsx", "app/pay/page.jsx"  ],
   "exclude": ["node_modules"]
 }
